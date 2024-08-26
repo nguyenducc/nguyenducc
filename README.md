@@ -1,7 +1,8 @@
+<!--
 - 👋 Hi, I'm Nguyen Van Duc, a seasoned DevOps Engineer on a continuous learning journey with a focus on AWS and DevOps practices.
 - 🌱 Currently delving into the intricacies of Kubernetes and exploring the dynamic world of tech.
 - Let's connect and explore the exciting intersection of technology and innovation! 🚀🔗
-<!--
+
 **nguyenducc/nguyenducc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
